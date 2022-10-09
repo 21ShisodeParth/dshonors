@@ -2,7 +2,7 @@
 
 _Chris Pyles, [other team members]_
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ls88-openscienceconnector/final-project/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/21ShisodeParth/dshonors/HEAD)
 
 This project for L&S 88 attempts to recreate the analysis by Chris Pyles in his notebook which analyzes an insurance data set from Kaggle. The purpose of this project is to attempt to reproduce the findings in the original analysis regarding the relationship between smoker status and insurance charges. We will also evaluate the efficacy and reliability of this data set to qualify any conclusions that we draw. For more detailed information, see our [Pre-Analysis Plan](notebooks/pre-analysis-plan.ipynb).
 
