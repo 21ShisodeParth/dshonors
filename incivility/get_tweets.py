@@ -82,4 +82,4 @@ for h in handles:
    retweet_ids = []
    retweet_texts = []
 
-   user_df.to_csv(r'data\raw_tweets\' + h)
+   user_df.to_csv(r'data\raw_tweets\' + h + r'.csv')
