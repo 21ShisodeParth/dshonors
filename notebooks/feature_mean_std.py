@@ -2,8 +2,8 @@ import os
 import numpy as np
 import pandas as pd
 
-dir = r'C:\Users\parth\OneDrive\Desktop\csv\scored_tweets'
-reg = r"C:\Users\parth\OneDrive\Desktop\csv\regions_complete.csv"
+dir = r"data\scored_tweets"
+reg = r"data\regions.csv"
 
 scores = pd.DataFrame()
 
