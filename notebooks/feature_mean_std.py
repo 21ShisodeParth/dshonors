@@ -11,7 +11,6 @@ users = []
 tox_mean, iden_mean, ins_mean, prof_mean, thr_mean = [], [], [], [], []
 tox_std, iden_std, ins_std, prof_std, thr_std = [], [], [], [], []
 
-
 for file in os.listdir(dir):
     f = os.path.join(dir, file)
 
