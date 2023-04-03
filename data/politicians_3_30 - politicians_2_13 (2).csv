@@ -1,0 +1,860 @@
+,Handle,Type,Gender,FirstName,LastName,Age,Party,Experience,State,District,City
+0,SenatorBaldwin,Senator,F,Tammy,Baldwin,60,D,"['U.S. House', 'Wisconsin Assembly', 'Dane County, Wisconsin Board of Supervisors']",WI,,
+1,SenJohnBarrasso,Senator,M,John,Barrasso,70,R,['Wyoming Senate'],WY,,
+2,SenatorBennet,Senator,M,Michael,Bennet,57,D,['None'],CO,,
+3,MarshaBlackburn,Senator,F,Marsha,Blackburn,70,R,"['U.S. House', 'Tennessee Senate']",TN,,
+4,SenBlumenthal,Senator,M,Richard,Blumenthal,76,D,"['Connecticut Attorney General', 'Connecticut Senate', 'Connecticut House of Representatives']",CT,,
+5,RoyBlunt,Senator,M,Roy,Blunt,72,R,"['U.S. House', 'Missouri Secretary of State', 'Greene County, Missouri Clerk']",MO,,
+6,CoryBooker,Senator,M,Cory,Booker,53,D,"['Mayor of Newark, New Jersey', 'Newark Municipal Council']",NJ,,
+7,JohnBoozman,Senator,M,John,Boozman,71,R,"['U.S. House', 'Rogers Public Schools Board']",AR,,
+8,SenatorBraun,Senator,M,Mike,Braun,68,R,"['Indiana House of Representatives Jasper, Indiana School Board']",IN,,
+9,SenSherrodBrown,Senator,M,Sherrod,Brown,70,D,"['U.S. House', 'Ohio Secretary of State', 'Ohio House of Representatives']",OH,,
+10,SenatorBurr,Senator,M,Richard,Burr,66,R,['U.S. House'],NC,,
+11,SenatorCantwell,Senator,F,Maria,Cantwell,64,D,"['U.S. House', 'Washington House of Representatives']",WA,,
+12,SenCapito,Senator,F,Shelley,Capito,68,R,"['U.S. House', 'West Virginia House of Delegates']",WV,,
+13,SenatorCardin,Senator,M,Benjamin,Cardin,79,D,"['U.S. House', 'Speaker of the Maryland House of Delegates']",MD,,
+14,SenatorCarper,Senator,M,Thomas,Carper,75,D,"['Governor of Delaware', 'U.S. House', 'Delaware Treasurer']",DE,,
+15,SenBobCasey,Senator,M,Robert,Casey,62,D,"['Pennsylvania Treasurer', 'Pennsylvania Auditor']",PA,,
+16,SenBillCassidy,Senator,M,Bill,Cassidy,65,R,"['U.S. House', 'Louisiana Senate']",LA,,
+17,SenatorCollins,Senator,F,Susan,Collins,69,R,['None'],ME,,
+18,ChrisCoons,Senator,M,Christopher,Coons,59,D,"['New Castle County, Delaware County Executive', 'New Castle County Council']",DE,,
+19,JohnCornyn,Senator,M,John,Cornyn,70,R,"['San Antonio District Judge', 'Texas Attorney General', 'Texas Supreme Court', '(Associate Justice)']",TX,,
+20,SenCortezMasto,Senator,F,Catherine,Masto,58,D,['Nevada Attorney General'],NV,,
+21,SenTomCotton,Senator,M,Tom,Cotton,45,R,['U.S. House'],AR,,
+22,SenKevinCramer,Senator,M,Kevin,Cramer,61,R,"['U.S. House', 'North Dakota Public Service Commissioner']",ND,,
+23,MikeCrapo,Senator,M,Mike,Crapo,71,R,"['U.S. House', 'Idaho Senate']",ID,,
+24,SenTedCruz,Senator,M,Ted,Cruz,51,R,['None'],TX,,
+25,SteveDaines,Senator,M,Steve,Daines,60,R,['U.S. House'],MT,,
+26,SenDuckworth,Senator,F,Tammy,Duckworth,54,D,['U.S. House'],IL,,
+27,SenatorDurbin,Senator,M,Richard,Durbin,77,D,['U.S. House'],IL,,
+28,SenJoniErnst,Senator,F,Joni,Ernst,52,R,['Iowa Senate'],IA,,
+29,SenFeinstein,Senator,F,Dianne,Feinstein,89,D,"['Mayor of San Francisco', 'San Francisco Board of Supervisors']",CA,,
+30,SenatorFischer,Senator,F,Deb,Fischer,71,R,['Nebraska Legislature'],NE,,
+31,SenGillibrand,Senator,F,Kirsten,Gillibrand,55,D,['U.S. House'],NY,,
+32,LindseyGrahamSC,Senator,F,Lindsey,Graham,67,R,"['U.S. House', 'South Carolina House of Representatives']",SC,,
+33,ChuckGrassley,Senator,M,Chuck,Grassley,89,R,"['U.S. House', 'Iowa House of Representatives']",IA,,
+34,SenatorHagerty,Senator,M,Bill,Hagerty,63,R,['None'],TN,,
+35,SenatorHassan,Senator,F,Margaret,Hassan,64,D,"['Governor of New Hampshire', 'New Hampshire Senate']",NH,,
+36,HawleyMO,Senator,M,Josh,Hawley,42,R,['Attorney General of Missouri'],MO,,
+37,MartinHeinrich,Senator,M,Martin,Heinrich,51,D,"['U.S. House', 'Albuquerque City Council']",NM,,
+38,SenatorHick,Senator,M,John,Hickenlooper,70,D,"['Governor of Colorado', 'Mayor of Denver']",CO,,
+39,maziehirono,Senator,F,Mazie,Hirono,75,D,"['U.S. House', 'Lieutenant Governor of Hawaii', 'Hawaii House of Representatives']",HI,,
+40,SenJohnHoeven,Senator,M,John,Hoeven,65,R,['Governor of North Dakota'],ND,,
+41,SenHydeSmith,Senator,F,Cindy,Hyde-Smith,63,R,"['Mississippi Commissioner of Agriculture and Commerce', 'Mississippi Senate']",MS,,
+42,JimInhofe,Senator,M,James,Inhofe,87,R,"['U.S. House', 'Mayor of Tulsa, Oklahoma', 'Oklahoma Senate', 'Oklahoma House of Representatives']",OK,,
+43,SenRonJohnson,Senator,M,Ron,Johnson,67,R,['None'],WI,,
+44,timkaine,Senator,M,Tim,Kaine,64,D,"['Governor of Virginia', 'Lieutenant Governor of Virginia', 'Mayor of Richmond, Virginia']",VA,,
+45,SenMarkKelly,Senator,M,Mark,Kelly,58,D,['None'],AZ,,
+46,SenJohnKennedy,Senator,M,John,Kennedy,70,R,['Louisiana Treasurer'],LA,,
+47,SenAngusKing,Senator,M,Angus,King,78,I,['Governor of Maine'],ME,,
+48,SenAmyKlobuchar,Senator,F,Amy,Klobuchar,62,D,"['Hennepin County, Minnesota County Attorney']",MN,,
+49,SenatorLankford,Senator,M,James,Lankford,54,R,['U.S. House'],OK,,
+50,SenatorLeahy,Senator,M,Patrick,Leahy,82,D,"[""State's Attorney, Chittenden County, Vermont""]",VT,,
+51,SenMikeLee,Senator,M,Mike,Lee,51,R,['None'],UT,,
+52,SenatorLujan,Senator,M,Ben,Luján,50,D,"['U.S. House', 'New Mexico Public Regulation Commission']",NM,,
+53,SenLummis,Senator,F,Cynthia,Lummis,68,R,"['U.S. House', 'Wyoming Treasurer', 'Wyoming Senate', 'Wyoming House of Representatives']",WY,,
+54,Sen_JoeManchin,Senator,M,Joe,Manchin,75,D,"['Governor of West Virginia', 'Secretary of State of West Virginia', 'West Virginia Senate', 'West Virginia House of Delegates']",WV,,
+55,SenMarkey,Senator,M,Edward,Markey,76,D,"['U.S. House', 'Massachusetts House of Representatives']",MA,,
+56,SenatorMarshall,Senator,M,Roger,Marshall,62,R,['U.S. House'],KS,,
+57,senatemajldr,Senator,M,Mitch,McConnell,80,R,"['Judge/Executive of Jefferson County, Kentucky']",KY,,
+58,SenatorMenendez,Senator,M,Bob,Menendez,68,D,"['U.S. House', 'New Jersey Senate', 'New Jersey General Assembly', 'Mayor of Union City', 'Union City Board of Education']",NJ,,
+59,SenJeffMerkley,Senator,M,Jeff,Merkley,66,D,['Oregon House Speaker'],OR,,
+60,JerryMoran,Senator,M,Jerry,Moran,68,R,"['U.S. House', 'Kansas Senate']",KS,,
+61,lisamurkowski,Senator,F,Lisa,Murkowski,65,R,['Alaska House of Representatives'],AK,,
+62,ChrisMurphyCT,Senator,M,Christopher,Murphy,49,D,"['U.S. House', 'Connecticut Senate', 'Connecticut House of Representatives']",CT,,
+63,PattyMurray,Senator,F,Patty,Murray,72,D,"['Washington Senate', 'Shoreline School Board']",WA,,
+64,ossoff,Senator,M,Jon,Ossoff,35,D,['None'],GA,,
+65,SenAlexPadilla,Senator,M,Alex,Padilla,49,D,"['Secretary of State of California', 'California Senate', 'Los Angeles City Council President']",CA,,
+66,RandPaul,Senator,M,Rand,Paul,59,R,['None'],KY,,
+67,SenGaryPeters,Senator,M,Gary,Peters,63,D,"['U.S. House', 'Michigan Senate']",MI,,
+68,senrobportman,Senator,M,Rob,Portman,66,R,['U.S. House'],OH,,
+69,SenJackReed,Senator,M,Jack,Reed,73,D,"['U.S. House', 'Rhode Island Senate']",RI,,
+70,SenatorRisch,Senator,M,James,Risch,79,R,"['Governor of Idaho', 'Lieutenant Governor of Idaho', 'Idaho Senate President pro tempore']",ID,,
+71,SenatorRomney,Senator,M,Mitt,Romney,75,R,['Governor of Massachusetts'],UT,,
+72,SenJackyRosen,Senator,F,Jacky,Rosen,65,D,['U.S. House'],NV,,
+73,SenatorRounds,Senator,M,Mike,Rounds,68,R,"['Governor of South Dakota', 'South Dakota Senate']",SD,,
+74,marcorubio,Senator,M,Marco,Rubio,51,R,"['Florida House Speaker', 'West Miami City Commission']",FL,,
+75,SenSanders,Senator,M,Bernard,Sanders,81,I,"['U.S. House', 'Mayor of Burlington, Vermont']",VT,,
+76,SenSasse,Senator,M,Ben,Sasse,50,R,['None'],NE,,
+77,SenBrianSchatz,Senator,M,Brian,Schatz,50,D,"['Lieutenant Governor of Hawaii', 'Hawaii House of Representatives']",HI,,
+78,SenSchumer,Senator,M,Charles,Schumer,71,D,"['U.S. House', 'New York State Assembly']",NY,,
+79,SenRickScott,Senator,M,Rick,Scott,69,R,['Governor of Florida'],FL,,
+80,SenatorTimScott,Senator,M,Tim,Scott,57,R,"['U.S. House', 'South Carolina House of Representatives', 'Charleston County Council']",SC,,
+81,SenatorShaheen,Senator,F,Jeanne,Shaheen,75,D,"['Governor of New Hampshire', 'New Hampshire Senate']",NH,,
+82,SenShelby,Senator,M,Richard,Shelby,88,R,"['U.S. House', 'Alabama Senate']",AL,,
+83,SenatorSinema,Senator,F,Kyrsten,Sinema,46,D,"['U.S. House', 'Arizona Senate', 'Arizona House of Representatives']",AZ,,
+84,SenTinaSmith,Senator,F,Tina,Smith,64,D,['Lieutenant Governor of Minnesota'],MN,,
+85,SenStabenow,Senator,F,Debbie,Stabenow,72,D,"['U.S. House', 'Michigan House of Representatives', 'Michigan Senate']",MI,,
+86,SenDanSullivan,Senator,M,Dan,Sullivan,58,R,['Alaska Attorney General'],AK,,
+87,SenatorTester,Senator,M,Jon,Tester,66,D,"['Montana Senate President', 'Big Sandy, Montana School Board']",MT,,
+88,SenJohnThune,Senator,M,John,Thune,61,R,['U.S. House'],SD,,
+89,SenThomTillis,Senator,M,Thom,Tillis,62,R,['Speaker of the North Carolina House of Representatives'],NC,,
+90,SenToomey,Senator,M,Patrick,Toomey,60,R,['U.S. House'],PA,,
+91,SenTuberville,Senator,M,Tommy,Tuberville,68,R,['None'],AL,,
+92,ChrisVanHollen,Senator,M,Christopher,Van Hollen,63,D,"['U.S. House', 'Maryland Senate', 'Maryland House of Delegates']",MD,,
+93,MarkWarner,Senator,M,Mark,Warner,67,D,['Governor of Virginia'],VA,,
+94,SenatorWarnock,Senator,M,Raphael,Warnock,53,D,['None'],GA,,
+95,SenWarren,Senator,F,Elizabeth,Warren,73,D,['None'],MA,,
+96,SenWhitehouse,Senator,M,Sheldon,Whitehouse,67,D,['Attorney General of Rhode Island'],RI,,
+97,SenatorWicker,Senator,M,Roger,Wicker,71,R,"['U.S. House', 'Mississippi Senate']",MS,,
+98,RonWyden,Senator,M,Ron,Wyden,73,D,['U.S. House'],OR,,
+99,SenToddYoung,Senator,M,Todd,Young,50,R,['U.S. House'],IN,,
+100,RepAdams,Representative,F,Alma,Adams,76,D,North Carolina House of Representatives,NC,12,
+101,Robert_Aderholt,Representative,M,Robert,Aderholt,57,R,Haleyville Municipal Judge,AL,4,
+102,RepPeteAguilar,Representative,M,Pete,Aguilar,43,D,Mayor of Redlands,CA,31,
+103,RepRickAllen,Representative,M,Rick,Allen,71,R,Businessman,GA,12,
+104,RepColinAllred,Representative,M,Colin,Allred,39,D,"Attorney
+Football player",TX,32,
+105,MarkAmodeiNV2,Representative,M,Mark,Amodei,64,R,"Nevada Senate
+Nevada Assembly",NV,2,
+106,RepArmstrongND,Representative,M,Kelly,Armstrong,46,R,"North Dakota Senate
+Chair of the North Dakota Republican Party",ND,0,
+107,RepArrington,Representative,M,Jodey,Arrington,50,R,"Educator
+Public administrator
+White House aide",TX,19,
+108,RepAuchincloss,Representative,M,Jake,Auchincloss,34,D,Newton City Council,MA,4,
+109,RepCindyAxne,Representative,F,Cynthia,Axne,57,D,Businesswoman,IA,3,
+110,RepBrianBabin,Representative,M,Brian,Babin,74,R,"Lower Neches Valley Authority
+Texas Historical Commission
+Mayor of Woodville",TX,36,
+111,RepDonBacon,Representative,M,Don,Bacon,59,R,U.S. Air Force Brigadier General,NE,2,
+112,RepJimBaird,Representative,M,James,Baird,77,R,"Indiana House of Representatives
+Putnam County Commission",IN,4,
+113,RepBalderson,Representative,M,Troy,Balderson,60,R,Ohio Senate,OH,12,
+114,RepJimBanks,Representative,M,Jim,Banks,43,R,Indiana Senate,IN,3,
+115,RepAndyBarr,Representative,M,Andy,Barr,49,R,Attorney,KY,6,
+116,RepBarragan,Representative,F,Nanette,Barragán,46,D,Hermosa Beach City Council,CA,44,
+117,RepKarenBass,Representative,F,Karen,Bass,69,D,Speaker of the California State Assembly,CA,37,
+118,RepBeatty,Representative,F,Joyce,Beatty,72,D,Ohio House of Representatives,OH,3,
+119,RepBentz,Representative,M,Cliff,Bentz,70,R,Oregon State Senate,OR,2,
+120,RepBera,Representative,M,Ami,Bera,57,D,Chief Medical Officer of Sacramento County,CA,7,
+121,RepJackBergman,Representative,M,Jack,Bergman,75,R,U.S. Marine Corps Lieutenant General,MI,1,
+122,RepDonBeyer,Representative,M,Donald,Beyer,72,D,"U.S. Ambassador to Switzerland and Liechtenstein
+Lieutenant Governor of Virginia",VA,8,
+123,RepBice,Representative,F,Stephanie,Bice,49,R,Oklahoma Senate,OK,5,
+124,RepAndyBiggsAZ,Representative,M,Andy,Biggs,64,R,Arizona Senate,AZ,5,
+125,RepGusBilirakis,Representative,M,Gus,Bilirakis,59,R,Florida House of Representatives,FL,12,
+126,RepDanBishop,Representative,M,Dan,Bishop,58,R,"North Carolina Senate
+North Carolina House of Representatives
+Mecklenburg County Commission",NC,9,
+127,SanfordBishop,Representative,M,Sanford,Bishop,75,D,"Georgia Senate
+Georgia House of Representatives",GA,2,
+128,repblumenauer,Representative,M,Earl,Blumenauer,74,D,"Oregon House of Representatives
+Multnomah County Commissioner
+Portland City Commissioner",OR,3,
+129,RepLBR,Representative,F,Lisa,Blunt Rochester,60,D,"Delaware Health and Social Services Secretary
+Delaware Labor Secretary
+Delaware Personnel Director",DE,0,
+130,RepBoebert,Representative,F,Lauren,Boebert,35,R,"Businesswoman
+Restaurateur",CO,3,
+131,RepBonamici,Representative,F,Suzanne,Bonamici,68,D,"Oregon House of Representatives
+Oregon State Senate",OR,1,
+132,RepBost,Representative,M,Mike,Bost,61,R,"Illinois House of Representatives
+Firefighter",IL,12,
+133,RepBourdeaux,Representative,F,Carolyn,Bourdeaux,52,D,Professor,GA,7,
+134,RepBowman,Representative,M,Jamaal,Bowman,46,D,Middle school principal,NY,16,
+135,CongBoyle,Representative,M,Brendan,Boyle,45,D,Pennsylvania House of Representatives,PA,2,
+136,RepKevinBrady,Representative,M,Kevin,Brady,67,R,Texas House of Representatives,TX,8,
+137,RepMoBrooks,Representative,M,Mo,Brooks,68,R,"Alabama House of Representatives
+Madison County Commissioner",AL,5,
+138,RepAnthonyBrown,Representative,M,Anthony,Brown,60,D,"Lieutenant Governor of Maryland
+Maryland House of Delegates",MD,4,
+139,RepShontelBrown,Representative,F,Shontel,Brown,47,D,Cuyahoga County Council,OH,11,
+140,RepBrownley,Representative,F,Julia,Brownley,70,D,California State Assembly,CA,26,
+141,VernBuchanan,Representative,M,Vern,Buchanan,71,R,Auto dealer,FL,16,
+142,RepKenBuck,Representative,M,Ken,Buck,63,R,Weld County District Attorney,CO,4,
+143,RepLarryBucshon,Representative,M,Larry,Bucshon,60,R,Heart surgeon,IN,8,
+144,RepTedBudd,Representative,M,Ted,Budd,51,R,Businessman,NC,13,
+145,RepTimBurchett,Representative,M,Tim,Burchett,58,R,"Mayor of Knox County
+Tennessee Senate
+Tennessee House of Representatives",TN,2,
+146,michaelcburgess,Representative,M,Michael,Burgess,71,R,Physician,TX,26,
+147,RepCori,Representative,F,Cori,Bush,46,D,"Registered nurse
+Pastor
+Activist",MO,1,
+148,RepCheri,Representative,F,Cheri,Bustos,61,D,"East Moline City Council
+Healthcare executive
+Journalist",IL,17,
+149,GKButterfield,Representative,M,G.,Butterfield,75,D,North Carolina Supreme Court Justice,NC,1,
+150,KenCalvert,Representative,M,Ken,Calvert,69,R,Real estate executive,CA,42,
+151,RepKatCammack,Representative,F,Kat,Cammack,34,R,Political advisor,FL,3,
+152,RepCarbajal,Representative,M,Salud,Carbajal,57,D,Santa Barbara County Board of Supervisors,CA,24,
+153,RepCardenas,Representative,M,Tony,Cárdenas,59,D,Los Angeles City Council,CA,29,
+154,RepMikeCarey,Representative,M,Mike,Carey,51,R,Lobbyist,OH,15,
+155,RepJerryCarl,Representative,M,Jerry,Carl,64,R,Mobile County Commission,AL,1,
+156,RepAndreCarson,Representative,M,André,Carson,48,D,Indianapolis City-County Council,IN,7,
+157,RepBuddyCarter,Representative,M,Buddy,Carter,65,R,"Georgia Senate
+Georgia House of Representatives
+Mayor of Pooler",GA,1,
+158,JudgeCarter,Representative,M,John,Carter,81,R,Texas state district judge,TX,31,
+159,RepTroyCarter,Representative,M,Troy,Carter,59,D,"Louisiana State Senate
+Louisiana House of Representatives
+New Orleans City Council",LA,2,
+160,RepCartwright,Representative,M,Matt,Cartwright,61,D,Attorney,PA,8,
+161,RepEdCase,Representative,M,Ed,Case,70,D,"U.S. House
+Hawaii House of Representatives",HI,1,
+162,RepCasten,Representative,M,Sean,Casten,50,D,Entrepreneur,IL,6,
+163,USRepKCastor,Representative,F,Kathy,Castor,56,D,"Assistant General Counsel to the Florida Department of Community Affairs
+President of the Florida Association of Women Lawyers
+Hillsborough County Board of Commissioners",FL,14,
+164,JoaquinCastrotx,Representative,M,Joaquin,Castro,48,D,Texas House of Representatives,TX,20,
+165,RepCawthorn,Representative,F,Madison,Cawthorn,27,R,"Congressional staffer[57]
+Restaurant worker[58]",NC,11,
+166,RepSteveChabot,Representative,M,Steve,Chabot,69,R,"Cincinnati City Council
+Hamilton County Commissioner
+U.S. House",OH,1,
+167,RepLizCheney,Representative,F,Liz,Cheney,56,R,Principal Deputy Assistant Secretary of State for Near Eastern Affairs,WY,0,
+168,CongresswomanSC,Representative,F,Sheila,Cherfilus-McCormick,43,D,CEO of Trinity Health,FL,20,
+169,RepJudyChu,Representative,F,Judy,Chu,69,D,"Mayor of Monterey Park
+Monterey Park City Council
+California State Assembly
+California State Board of Equalization",CA,27,
+170,davidcicilline,Representative,M,David,Cicilline,61,D,"Mayor of Providence
+Rhode Island House of Representatives",RI,1,
+175,RepKClark,Representative,F,Katherine,Clark,59,D,"Massachusetts Senate
+Massachusetts House of Representatives
+Attorney",MA,5,
+176,RepYvetteClarke,Representative,F,Yvette,Clarke,57,D,New York City Council,NY,9,
+177,repcleaver,Representative,M,Emanuel,Cleaver,78,D,"Mayor of Kansas City
+Pastor
+Radio show host",MO,5,
+178,RepBenCline,Representative,M,Ben,Cline,50,R,Virginia House of Delegates,VA,6,
+179,RepCloudTX,Representative,M,Michael,Cloud,47,R,Chair of the Victoria County Republican Party,TX,27,
+180,WhipClyburn,Representative,M,James,Clyburn,82,D,"Political aide
+Teacher",SC,6,
+181,Rep_Clyde,Representative,M,Andrew,Clyde,58,R,U.S. Navy Commander,GA,9,
+182,RepCohen,Representative,M,Steve,Cohen,73,D,"Tennessee Senate
+Attorney",TN,9,
+183,TomColeOK04,Representative,M,Tom,Cole,73,R,"Oklahoma Senate
+Oklahoma Secretary of State
+College professor",OK,4,
+184,RepJamesComer,Representative,M,James,Comer,50,R,"Kentucky House of Representatives
+Agriculture Commissioner of Kentucky",KY,1,
+185,RepConnieConway,Representative,M,Connie,Conway,72,R,California State Assembly,CA,22,
+186,GerryConnolly,Representative,M,Gerald,Connolly,72,D,Fairfax County Board of Supervisors Chair,VA,11,
+187,repjimcooper,Representative,M,Jim,Cooper,68,D,"U.S. House
+College professor",TN,5,
+188,RepLouCorrea,Representative,M,Lou,Correa,64,D,"California State Senate
+Orange County Board of Supervisors
+California State Assembly",CA,46,
+189,RepJimCosta,Representative,M,Jim,Costa,70,D,"California State Senate
+California State Assembly",CA,16,
+190,RepJoeCourtney,Representative,M,Joe,Courtney,69,D,Connecticut House of Representatives,CT,2,
+191,RepAngieCraig,Representative,F,Angie,Craig,50,D,"Medical technology executive
+Reporter",MN,2,
+192,RepDanCrenshaw,Representative,M,Dan,Crenshaw,38,R,U.S. Navy SEAL,TX,2,
+193,RepJasonCrow,Representative,M,Jason,Crow,43,D,"Attorney
+U.S. Army Captain",CO,6,
+194,RepCuellar,Representative,M,Henry,Cuellar,67,D,"Texas House of Representatives
+Texas Secretary of State",TX,28,
+195,RepJohnCurtis,Representative,M,John,Curtis,62,R,Mayor of Provo,UT,3,
+196,RepDavids,Representative,F,Sharice,Davids,42,D,"Attorney
+Mixed martial artist",KS,3,
+197,WarrenDavidson,Representative,M,Warren,Davidson,52,R,Businessman,OH,8,
+198,RepDannyDavis,Representative,M,Danny,Davis,81,D,"Chicago City Council
+Cook County Board of Commissioners",IL,7,
+199,RodneyDavis,Representative,M,Rodney,Davis,52,R,Congressional staffer,IL,13,
+200,RepDean,Representative,F,Madeleine,Dean,63,D,Pennsylvania House of Representatives,PA,4,
+201,RepPeterDeFazio,Representative,M,Peter,DeFazio,75,D,Lane County Commissioner,OR,4,
+202,RepDianaDeGette,Representative,F,Diana,DeGette,65,D,Colorado House of Representatives,CO,1,
+203,rosadelauro,Representative,F,Rosa,DeLauro,79,D,"Executive Director of EMILY's List
+Political aide",CT,3,
+204,RepDelBene,Representative,F,Suzan,DelBene,60,D,Washington Department of Revenue Director,WA,1,
+205,RepValDemings,Representative,F,Val,Demings,65,D,Chief of the Orlando Police Department,FL,10,
+206,RepDeSaulnier,Representative,M,Mark,DeSaulnier,70,D,"California State Senate
+California State Assembly
+Contra Costa County Board of Supervisors",CA,11,
+207,DesJarlaisTN04,Representative,M,Scott,DesJarlais,58,R,Physician,TN,4,
+208,RepDebDingell,Representative,F,Debbie,Dingell,68,D,"President of the General Motors Foundation, Wayne State University Board of Governors, Lobbyist",MI,12,
+209,RepLloydDoggett,Representative,M,Lloyd,Doggett,76,D,"Texas Senate
+Texas Supreme Court justice
+College professor",TX,35,
+210,RepDonaldsPress,Representative,M,Byron,Donalds,44,R,Florida House of Representatives,FL,19,
+211,USRepMikeDoyle,Representative,M,Michael,Doyle,69,D,Pennsylvania State Senate Chief of Staff,PA,18,
+212,RepJeffDuncan,Representative,M,Jeff,Duncan,56,R,South Carolina House of Representatives,SC,3,
+213,DrNealDunnFL2,Representative,M,Neal,Dunn,69,R,Surgeon,FL,2,
+214,RepEllzey,Representative,M,Jake,Ellzey,52,R,"Texas House of Representatives
+United States Navy commander",TX,6,
+215,RepTomEmmer,Representative,M,Tom,Emmer,61,R,Minnesota House of Representatives,MN,6,
+216,RepEscobar,Representative,F,Veronica,Escobar,53,D,"El Paso County Commission
+El Paso County Judge",TX,16,
+217,RepAnnaEshoo,Representative,F,Anna,Eshoo,79,D,San Mateo County Board of Supervisors,CA,18,
+218,RepEspaillat,Representative,M,Adriano,Espaillat,68,D,"New York State Senate
+New York State Assembly",NY,13,
+219,RepRonEstes,Representative,M,Ron,Estes,66,R,Kansas State Treasurer,KS,4,
+220,RepDwightEvans,Representative,M,Dwight,Evans,68,D,Pennsylvania House of Representatives,PA,3,
+221,RepPatFallon,Representative,M,Pat,Fallon,54,R,"Texas Senate
+Texas House of Representatives
+United States Air Force second lieutenant",TX,4,
+222,RepFeenstra,Representative,M,Randy,Feenstra,53,R,"Iowa Senate
+Sioux County Treasurer",IA,4,
+223,RepDrewFerguson,Representative,M,Drew,Ferguson,55,R,Mayor of West Point,GA,3,
+224,repfinstad,Representative,M,Brad,Finstad,46,R,"Director of USDA Rural Development for Minnesota
+Minnesota House of Representatives",MN,1,
+225,RepFischbach,Representative,F,Michelle,Fischbach,57,R,"Lieutenant Governor of Minnesota
+President of the Minnesota Senate
+Minnesota Senate",MN,7,
+226,RepFitzgerald,Representative,M,Scott,Fitzgerald,58,R,Wisconsin State Senate,WI,5,
+227,RepBrianFitz,Representative,M,Brian,Fitzpatrick,48,R,"FBI agent
+Special Assistant U.S. Attorney",PA,1,
+228,RepChuck,Representative,M,Chuck,Fleischmann,60,R,Attorney,TN,3,
+229,RepFletcher,Representative,F,Lizzie,Fletcher,47,D,Attorney,TX,7,
+230,USRepMikeFlood,Representative,M,Mike,Flood,47,R,Speaker of the Nebraska Legislature,NE,1,
+231,repmayraflores,Representative,F,Mayra,Flores,36,R,Respiratory therapist,TX,34,
+232,RepBillFoster,Representative,M,Bill,Foster,67,D,"U.S. House
+Research physicist
+Businessman",IL,11,
+233,virginiafoxx,Representative,F,Virginia,Foxx,79,R,North Carolina Senate,NC,5,
+234,RepLoisFrankel,Representative,F,Lois,Frankel,74,D,"Mayor of West Palm Beach
+Florida House of Representatives",FL,21,
+235,RepFranklin,Representative,M,Scott,Franklin,58,R,Lakeland City Commission,FL,15,
+236,RepRussFulcher,Representative,M,Russ,Fulcher,60,R,Idaho Senate,ID,1,
+237,RepMattGaetz,Representative,M,Matt,Gaetz,40,R,Florida House of Representatives,FL,1,
+238,RepGallagher,Representative,M,Mike,Gallagher,38,R,"Political advisor
+U.S. Marine Corps",WI,8,
+239,RepRubenGallego,Representative,M,Ruben,Gallego,42,D,Arizona House of Representatives,AZ,7,
+240,RepGaramendi,Representative,M,John,Garamendi,77,D,"United States Deputy Secretary of the Interior
+Lieutenant Governor of California
+California Insurance Commissioner
+California State Senate
+California State Assembly",CA,3,
+241,RepGarbarino,Representative,M,Andrew,Garbarino,38,R,New York State Assembly,NY,2,
+242,RepMikeGarcia,Representative,M,Mike,Garcia,46,R,"Businessman
+United States Navy",CA,25,
+243,RepSylviaGarcia,Representative,F,Sylvia,Garcia,72,D,Texas Senate,TX,29,
+244,RepChuyGarcia,Representative,M,Chuy,García,66,D,"Cook County Board of Commissioners
+Illinois Senate
+Chicago City Council",IL,4,
+245,RepBobGibbs,Representative,M,Bob,Gibbs,68,R,"Ohio Senate
+Ohio House of Representatives",OH,7,
+246,replouiegohmert,Representative,M,Louie,Gohmert,69,R,Texas appeals court judge,TX,1,
+247,RepGolden,Representative,M,Jared,Golden,40,D,Maine House of Representatives,ME,2,
+248,RepJimmyGomez,Representative,M,Jimmy,Gomez,47,D,California State Assembly,CA,34,
+249,RepTonyGonzales,Representative,M,Tony,Gonzales,42,R,United States Navy Master Chief Petty Officer,TX,23,
+250,RepAGonzalez,Representative,M,Anthony,Gonzalez,38,R,Football player,OH,16,
+251,RepGonzalez,Representative,M,Vicente,Gonzalez,55,D,"Food processing executive
+Texas State Board of Education",TX,15,
+252,RepBobGood,Representative,M,Bob,Good,57,R,"Liberty University Athletic Director
+Campbell County Board of Supervisors",VA,5,
+253,,Representative,M,Lance,Gooden,39,R,Texas House of Representatives,TX,5,
+254,RepGosar,Representative,M,Paul,Gosar,63,R,President of the Northern Arizona Dental Society,AZ,4,
+255,RepJoshG,Representative,M,Josh,Gottheimer,47,D,"Attorney
+Political aide",NJ,5,
+256,RepKayGranger,Representative,F,Kay,Granger,79,R,Mayor of Fort Worth,TX,12,
+257,RepGarretGraves,Representative,M,Garret,Graves,50,R,Louisiana Coastal Protection and Restoration Authority,LA,6,
+258,RepSamGraves,Representative,M,Sam,Graves,59,R,Missouri Senate,MO,6,
+259,RepAlGreen,Representative,M,Al,Green,75,D,"Harris County Justice of the Peace
+Houston NAACP president",TX,9,
+260,RepMarkGreen,Representative,M,Mark,Green,58,R,Tennessee Senate,TN,7,
+261,RepMTG,Representative,F,Marjorie,Greene,48,R,"Businesswoman
+Activist",GA,14,
+262,RepMGriffith,Representative,M,Morgan,Griffith,64,R,Virginia House of Delegates,VA,9,
+263,RepRaulGrijalva,Representative,M,Raúl,Grijalva,74,D,Pima County Board of Supervisors,AZ,3,
+264,RepGrothman,Representative,M,Glenn,Grothman,67,R,"Wisconsin Senate
+Wisconsin State Assembly",WI,6,
+265,RepMichaelGuest,Representative,M,Michael,Guest,52,R,District Attorney for Madison and Rankin Counties,MS,3,
+266,RepGuthrie,Representative,M,Brett,Guthrie,58,R,Kentucky Senate,KY,2,
+267,RepJoshHarder,Representative,M,Josh,Harder,36,D,"Venture capitalist
+Professor",CA,10,
+268,RepAndyHarrisMD,Representative,M,Andy,Harris,65,R,"Maryland State Senate
+Anesthesiologist",MD,1,
+269,RepHarshbarger,Representative,F,Diana,Harshbarger,62,R,Pharmacist,TN,1,
+270,RepHartzler,Representative,F,Vicky,Hartzler,62,R,Missouri House of Representatives,MO,4,
+271,RepJahanaHayes,Representative,F,Jahana,Hayes,49,D,Teacher,CT,5,
+272,repkevinhern,Representative,M,Kevin,Hern,60,R,Businessman,OK,1,
+273,RepHerrell,Representative,F,Yvette,Herrell,58,R,New Mexico House of Representatives,NM,2,
+274,HerreraBeutler,Representative,M,Jaime,Herrera Beutler,44,R,Washington House of Representatives,WA,3,
+275,CongressmanHice,Representative,F,Jody,Hice,62,R,"Radio show host
+Southern Baptist pastor",GA,10,
+276,RepBrianHiggins,Representative,M,Brian,Higgins,63,D,"Buffalo Common Council
+New York State Assembly",NY,26,
+277,RepClayHiggins,Representative,M,Clay,Higgins,61,R,Reserve Deputy Marshal of Lafayette,LA,3,
+278,RepFrenchHill,Representative,M,French,Hill,65,R,Businessman,AR,2,
+279,No official,Representative,M,James,Himes,56,D,"Financial executive
+Greenwich Housing Authority Board",CT,4,
+280,RepAshleyHinson,Representative,F,Ashley,Hinson,39,R,"Iowa House of Representatives
+News anchor",IA,1,
+281,RepTrey,Representative,M,Trey,Hollingsworth,39,R,CEO of Hollingsworth Capital Partners,IN,9,
+282,RepHorsford,Representative,M,Steven,Horsford,49,D,"U.S. House
+Nevada Senate",NV,4,
+283,RepHoulahan,Representative,F,Chrissy,Houlahan,55,D,"Entrepreneur
+U.S. Air Force",PA,6,
+284,LeaderHoyer,Representative,M,Steny,Hoyer,83,D,"President of the Maryland State Senate
+Maryland Board of Higher Education",MD,5,
+285,RepRichHudson,Representative,M,Richard,Hudson,51,R,Businessman,NC,8,
+286,RepHuffman,Representative,M,Jared,Huffman,58,D,California State Assembly,CA,2,
+287,RepHuizenga,Representative,M,Bill,Huizenga,53,R,Michigan House of Representatives,MI,2,
+288,repdarrellissa,Representative,M,Darrell,Issa,69,R,"Businessman
+U.S. House",CA,50,
+289,RepRonnyJackson,Representative,M,Ronny,Jackson,55,R,"Chief Medical Advisor to the President
+Physician to the President
+United States Navy Rear admiral",TX,13,
+290,JacksonLeeTX18,Representative,F,Sheila,Jackson Lee,72,D,"Houston City Council
+Municipal judge",TX,18,
+291,RepJacobs,Representative,M,Chris,Jacobs,55,R,"New York State Senate
+Secretary of State of New York
+Erie County Clerk",NY,27,
+292,RepSaraJacobs,Representative,F,Sara,Jacobs,33,D,"Nonprofit founder
+Policy advisor",CA,53,
+293,RepJayapal,Representative,F,Pramila,Jayapal,57,D,Washington State Senate,WA,7,
+294,RepJeffries,Representative,M,Hakeem,Jeffries,52,D,New York State Assembly,NY,8,
+295,RepBillJohnson,Representative,M,Bill,Johnson,68,R,United States Air Force,OH,6,
+296,RepDustyJohnson,Representative,M,Dusty,Johnson,46,R,"Chief of Staff to the Governor of South Dakota
+South Dakota Public Utilities Commission",SD,0,
+297,RepEBJ,Representative,M,Eddie,Johnson,86,D,"Texas Senate
+Nurse",TX,30,
+298,RepHankJohnson,Representative,M,Hank,Johnson,68,D,"DeKalb County Commissioner
+Associate Magistrate Judge",GA,4,
+299,RepMikeJohnson,Representative,M,Mike,Johnson,50,R,Louisiana House of Representatives,LA,4,
+300,RepMondaire,Representative,M,Mondaire,Jones,35,D,Attorney,NY,17,
+301,Jim_Jordan,Representative,M,Jim,Jordan,58,R,"Ohio Senate
+Ohio House of Representatives",OH,4,
+302,RepDaveJoyce,Representative,M,David,Joyce,65,R,Geauga County Prosecutor,OH,14,
+303,RepJohnJoyce,Representative,M,John,Joyce,65,R,Dermatologist,PA,13,
+304,RepMarcyKaptur,Representative,F,Marcy,Kaptur,76,D,"Domestic Policy Advisor, Carter Adm.",OH,9,
+305,RepJohnKatko,Representative,M,John,Katko,60,R,"Attorney, Prosecutor U.S. Attorney's Office",NY,24,
+306,USRepKeating,Representative,M,Bill,Keating,70,D,"Massachusetts House of Representatives
+Massachusetts Senate
+Norfolk County District Attorney",MA,9,
+307,RepFredKeller,Representative,M,Fred,Keller,57,R,Pennsylvania House of Representatives,PA,12,
+308,MikeKellyPA,Representative,M,Mike,Kelly,74,R,Butler City Council,PA,16,
+309,RepRobinKelly,Representative,F,Robin,Kelly,66,D,"Illinois House of Representatives
+Chief of Staff to the Illinois Treasurer
+Chief Administrative Officer to the Cook County President",IL,2,
+310,RepTrentKelly,Representative,M,Trent,Kelly,56,R,"District attorney,
+Tupelo City prosecutor
+Army National Guard Colonel",MS,1,
+311,RepRoKhanna,Representative,M,Ro,Khanna,46,D,"Attorney
+Author
+Educator",CA,17,
+312,RepDanKildee,Representative,M,Dan,Kildee,64,D,Genesee County Treasurer,MI,5,
+313,RepDerekKilmer,Representative,M,Derek,Kilmer,48,D,Washington State Senate,WA,6,
+314,RepAndyKimNJ,Representative,M,Andy,Kim,40,D,National security adviser,NJ,3,
+315,RepYoungKim,Representative,F,Young,Kim,60,R,California State Assembly,CA,39,
+316,RepRonKind,Representative,M,Ron,Kind,59,D,County Prosecutor,WI,3,
+317,RepKinzinger,Representative,M,Adam,Kinzinger,44,R,"McLean County Board of Commissioners
+Air Force pilot",IL,16,
+318,RepKirkpatrick,Representative,F,Ann,Kirkpatrick,72,D,"U.S. House
+Arizona House of Representatives",AZ,2,
+319,CongressmanRaja,Representative,M,Raja,Krishnamoorthi,49,D,"Public servant
+Attorney",IL,8,
+320,RepDavidKustoff,Representative,M,David,Kustoff,56,R,Attorney for the United States District Court for the Western District of Tennessee,TN,8,
+321,RepLaHood,Representative,M,Darin,LaHood,54,R,"Illinois Senate
+Prosecutor U.S. Attorney's Office
+Deputy Prosecutor Tazewell County",IL,18,
+322,RepLaMalfa,Representative,M,Doug,LaMalfa,62,R,"California State Senate
+California State Assembly",CA,1,
+323,RepConorLamb,Representative,M,Conor,Lamb,38,D,"Assistant U.S. Attorney for the Western District of Pennsylvania
+U.S. Marine Corps",PA,17,
+324,RepDLamborn,Representative,M,Doug,Lamborn,68,R,"President Pro Tempore of the Colorado Senate
+Colorado House of Representatives",CO,5,
+325,JimLangevin,Representative,M,James,Langevin,58,D,"Secretary of State of Rhode Island
+Rhode Island House of Representatives",RI,2,
+326,RepRickLarsen,Representative,M,Rick,Larsen,57,D,Snohomish County Council,WA,2,
+327,RepJohnLarson,Representative,M,John,Larson,74,D,"Connecticut Senate
+East Hartford City Council
+East Hartford Board of Education",CT,1,
+328,boblatta,Representative,M,Bob,Latta,66,R,"Wood County Commissioner
+Ohio House of Representatives
+Ohio Senate",OH,5,
+329,RepLaTurner,Representative,M,Jake,LaTurner,34,R,"Kansas State Treasurer
+Kansas Senate",KS,2,
+330,RepLawrence,Representative,F,Brenda,Lawrence,68,D,Mayor of Southfield,MI,14,
+331,RepAlLawsonJr,Representative,M,Al,Lawson,74,D,Florida Senate,FL,5,
+332,RepBarbaraLee,Representative,F,Barbara,Lee,76,D,California State Assembly,CA,13,
+333,RepSusieLee,Representative,F,Susie,Lee,56,D,Education advocate,NV,3,
+334,RepTeresaLF,Representative,F,Teresa,Leger Fernandez,63,D,Attorney,NM,3,
+335,RepDLesko,Representative,F,Debbie,Lesko,63,R,"Arizona House of Representatives
+Arizona Senate
+President Pro Tempore of Arizona Senate",AZ,8,
+336,repjulialetlow,Representative,F,Julia,Letlow,41,R,College administrator,LA,5,
+337,RepAndyLevin,Representative,M,Andy,Levin,62,D,Attorney,MI,9,
+338,RepMikeLevin,Representative,M,Mike,Levin,44,D,Environmental activist,CA,49,
+339,RepTedLieu,Representative,M,Ted,Lieu,53,D,"California State Senate
+California State Assembly",CA,33,
+340,RepZoeLofgren,Representative,F,Zoe,Lofgren,74,D,Santa Clara County Board of Supervisors,CA,19,
+341,USRepLong,Representative,M,Billy,Long,67,R,Auctioneer,MO,7,
+342,RepLoudermilk,Representative,M,Barry,Loudermilk,58,R,"Georgia State Senate
+Georgia House of Representatives",GA,11,
+343,RepLowenthal,Representative,M,Alan,Lowenthal,81,D,"California State Senate
+California State Assembly",CA,47,
+344,RepFrankLucas,Representative,M,Frank,Lucas,62,R,Oklahoma House of Representatives,OK,3,
+345,RepBlaine,Representative,M,Blaine,Luetkemeyer,70,R,"Missouri House of Representatives
+State Tourism Director",MO,3,
+346,RepElaineLuria,Representative,F,Elaine,Luria,47,D,U.S. Navy Commander,VA,2,
+347,RepStephenLynch,Representative,M,Stephen,Lynch,67,D,"Massachusetts Senate
+Massachusetts House of Representatives",MA,8,
+348,RepNancyMace,Representative,F,Nancy,Mace,44,R,South Carolina House of Representatives,SC,1,
+349,RepMalinowski,Representative,M,Tom,Malinowski,57,D,"Assistant Secretary of State for Democracy, Human Rights, and Labor",NJ,7,
+350,RepMalliotakis,Representative,F,Nicole,Malliotakis,42,R,New York State Assembly,NY,11,
+351,RepMaloney,Representative,F,Carolyn,Maloney,76,D,New York City Council,NY,12,
+352,RepSeanMaloney,Representative,M,Sean,Maloney,56,D,Attorney,NY,18,
+353,RepMann,Representative,M,Tracey,Mann,45,R,"Lieutenant Governor of Kansas
+Real estate agent
+Businessman",KS,1,
+354,RepKManning,Representative,F,Kathy,Manning,65,D,Attorney,NC,6,
+355,RepThomasMassie,Representative,M,Thomas,Massie,51,R,Judge-Executive of Lewis County,KY,4,
+356,RepBrianMast,Representative,M,Brian,Mast,42,R,U.S. Army Soldier,FL,18,
+357,DorisMatsui,Representative,F,Doris,Matsui,78,D,Sacramento City Council,CA,6,
+358,RepLucyMcBath,Representative,F,Lucy,McBath,62,D,Activist,GA,6,
+359,GOPLeader,Representative,M,Kevin,McCarthy,57,R,California State Assembly,CA,23,
+360,RepMcCaul,Representative,M,Michael,McCaul,60,R,"Attorney
+Federal prosecutor",TX,10,
+361,RepLisaMcClain,Representative,F,Lisa,McClain,56,R,Businesswoman,MI,10,
+362,RepMcClintock,Representative,M,Tom,McClintock,66,R,"California Senate
+California State Assembly",CA,4,
+363,BettyMcCollum04,Representative,F,Betty,McCollum,68,D,"North St. Paul City Council
+Minnesota House of Representatives",MN,4,
+364,RepMcEachin,Representative,M,Donald,McEachin,61,D,"Virginia Senate
+Virginia House of Delegates",VA,4,
+365,RepMcGovern,Representative,M,James,McGovern,62,D,Congressional staff member,MA,2,
+366,PatrickMcHenry,Representative,M,Patrick,McHenry,47,R,North Carolina House of Representatives,NC,10,
+367,RepMcKinley,Representative,M,David,McKinley,75,R,"West Virginia House of Delegates
+Businessman",WV,1,
+368,RepMcNerney,Representative,M,Jerry,McNerney,71,D,Engineering executive,CA,9,
+369,RepGregoryMeeks,Representative,M,Gregory,Meeks,69,D,New York State Assembly,NY,5,
+370,RepMeijer,Representative,M,Peter,Meijer,34,R,Businessman,MI,3,
+371,RepGraceMeng,Representative,F,Grace,Meng,47,D,New York State Assembly,NY,6,
+372,RepKweisiMfume,Representative,M,Kweisi,Mfume,74,D,"Baltimore City Council
+U.S. House
+President of the NAACP",MD,7,
+373,RepCarolMiller,Representative,F,Carol,Miller,72,R,West Virginia House of Delegates,WV,3,
+374,RepMaryMiller,Representative,F,Mary,Miller,63,R,Farmer,IL,15,
+375,RepMMM,Representative,F,Mariannette,Miller-Meeks,67,R,"Iowa Senate
+Physician
+U.S. Army Lieutenant Colonel",IA,2,
+376,RepMoolenaar,Representative,M,John,Moolenaar,61,R,"Michigan Senate
+Michigan House of Representatives",MI,4,
+377,RepBarryMoore,Representative,M,Barry,Moore,56,R,Alabama House of Representatives,AL,2,
+378,RepBlakeMoore,Representative,M,Blake,Moore,42,R,United States Foreign Service officer,UT,1,
+379,RepGwenMoore,Representative,F,Gwen,Moore,71,D,"Wisconsin State Senate
+Wisconsin State Assembly",WI,4,
+380,teammoulton,Representative,M,Seth,Moulton,44,D,"Businessman
+Activist
+U.S. Marine Corps Captain",MA,6,
+381,RepMrvan,Representative,M,Frank,Mrvan,53,D,North Township Trustee,IN,1,
+382,RepMullin,Representative,M,Markwayne,Mullin,45,R,"Businessman
+Mixed martial artist",OK,2,
+383,RepGregMurphy,Representative,M,Gregory,Murphy,59,R,North Carolina House of Representatives,NC,3,
+384,RepStephMurphy,Representative,F,Stephanie,Murphy,44,D,"Advisor
+Educator",FL,7,
+385,gracenapolitano,Representative,F,Grace,Napolitano,85,D,California State Assembly,CA,32,
+386,RepRichardNeal,Representative,M,Richard,Neal,73,D,Mayor of Springfield,MA,1,
+387,RepJoeNeguse,Representative,M,Joe,Neguse,38,D,"Executive Director of the Colorado Department of Regulatory Agencies
+Regents of the University of Colorado",CO,2,
+388,RepTroyNehls,Representative,M,Troy,Nehls,54,R,Sheriff of Fort Bend County,TX,22,
+389,RepNewhouse,Representative,M,Dan,Newhouse,67,R,Washington House of Representatives,WA,4,
+390,RepMarieNewman,Representative,F,Marie,Newman,58,D,"Businesswoman
+Activist",IL,3,
+391,DonaldNorcross,Representative,M,Donald,Norcross,63,D,"New Jersey Senate
+New Jersey General Assembly",NJ,1,
+392,RepRalphNorman,Representative,M,Ralph,Norman,69,R,"South Carolina House of Representatives
+Real estate developer",SC,5,
+393,EleanorNorton,Representative,F,Eleanor,Norton,84,D,Equal Employment Opportunity Commission Chair,DC,0,
+394,JayObernolte,Representative,M,Jay,Obernolte,52,R,"California State Assembly
+Video game developer",CA,8,
+395,RepAOC,Representative,F,Alexandria,Ocasio-Cortez,33,D,Bartender,NY,14,
+396,RepOHalleran,Representative,M,Tom,O'Halleran,76,D,Arizona Senate,AZ,1,
+397,Ilhan,Representative,F,Ilhan,Omar,40,D,Minnesota House of Representatives,MN,5,
+398,RepBurgessOwens,Representative,M,Burgess,Owens,71,R,"Businessman
+National Football League player",UT,4,
+399,CongPalazzo,Representative,M,Steven,Palazzo,52,R,Mississippi House of Representatives,MS,4,
+400,FrankPallone,Representative,M,Frank,Pallone,71,D,"New Jersey Senate
+Long Branch City Council",NJ,6,
+401,USRepGaryPalmer,Representative,M,Gary,Palmer,68,R,Policy analyst,AL,6,
+402,RepJimmyPanetta,Representative,M,Jimmy,Panetta,53,D,Deputy district attorney of Monterey County,CA,20,
+403,RepChrisPappas,Representative,M,Chris,Pappas,42,D,"New Hampshire Executive Council
+Treasurer of Hillsborough County
+New Hampshire House of Representatives",NH,1,
+404,BillPascrell,Representative,M,Bill,Pascrell,85,D,"New Jersey General Assembly
+Mayor of Paterson",NJ,9,
+405,RepDonaldPayne,Representative,M,Donald,Payne,63,D,"Newark Municipal Council
+Essex County Freeholder",NJ,10,
+406,SpeakerPelosi,Representative,F,Nancy,Pelosi,82,D,California Democratic Party Chair,CA,12,
+407,TBD,Representative,F,Mary,Peltola,49,D,Alaska House of Representatives,AK,0,
+408,RepGregPence,Representative,M,Greg,Pence,65,R,Businessman,IN,6,
+409,RepPerlmutter,Representative,M,Ed,Perlmutter,69,D,Colorado Senate,CO,7,
+410,RepScottPerry,Representative,M,Scott,Perry,60,R,"Pennsylvania House of Representatives
+Businessman
+U.S. Army",PA,10,
+411,RepScottPeters,Representative,M,Scott,Peters,64,D,"San Diego City Council
+San Diego Port Commission",CA,52,
+412,RepPfluger,Representative,M,August,Pfluger,43,R,"U.S. National Security Council
+United States Air Force Lieutenant colonel",TX,11,
+413,RepDeanPhillips,Representative,M,Dean,Phillips,53,D,Businessman,MN,3,
+414,chelliepingree,Representative,F,Chellie,Pingree,67,D,"Maine State Senate
+President, Common Cause",ME,1,
+415,StaceyPlaskett,Representative,F,Stacey,Plaskett,56,D,Attorney,VI,0,
+416,repmarkpocan,Representative,M,Mark,Pocan,58,D,Wisconsin State Assembly,WI,2,
+417,RepKatiePorter,Representative,F,Katie,Porter,48,D,"Attorney
+Professor",CA,45,
+418,congbillposey,Representative,M,Bill,Posey,74,R,"Florida Senate
+Florida House of Representatives
+Rockledge City Council",FL,8,
+419,RepPressley,Representative,F,Ayanna,Pressley,48,D,Boston City Council,MA,7,
+420,RepDavidEPrice,Representative,M,David,Price,82,D,"U.S. House
+College professor",NC,4,
+421,RepMikeQuigley,Representative,M,Mike,Quigley,64,D,Cook County Board of Commissioners,IL,5,
+422,RepAmata,Representative,F,Amata,Radewagen,74,R,Political aide,AS,0,
+423,RepRaskin,Representative,M,Jamie,Raskin,59,D,Maryland State Senate Majority Whip,MD,8,
+424,GReschenthaler,Representative,M,Guy,Reschenthaler,39,R,"Pennsylvania Senate
+Judge
+U.S. Navy",PA,14,
+425,RepKathleenRice,Representative,F,Kathleen,Rice,57,D,District Attorney of Nassau County,NY,4,
+426,RepTomRice,Representative,M,Tom,Rice,65,R,"Attorney
+Businessman
+Horry County Council Chair",SC,7,
+427,cathymcmorris,Representative,F,Cathy,Rodgers,53,R,Washington House of Representatives,WA,5,
+428,RepHalRogers,Representative,M,Hal,Rogers,84,R,Commonwealth's Attorney for Pulaski County and Rockcastle County,KY,5,
+429,RepMikeRogersAL,Representative,M,Mike,Rogers,64,R,"Calhoun County Commissioner
+Alabama House of Representatives",AL,3,
+430,RepJohnRose,Representative,M,John,Rose,57,R,Commissioner of Agriculture of Tennessee,TN,6,
+431,RepDeborahRoss,Representative,F,Deborah,Ross,59,D,North Carolina House of Representatives,NC,2,
+432,RepDavidRouzer,Representative,M,David,Rouzer,50,R,North Carolina Senate,NC,7,
+433,RepChipRoy,Representative,M,Chip,Roy,50,R,First Assistant Attorney General of Texas,TX,21,
+434,RepRoybalAllard,Representative,F,Lucille,Roybal-Allard,81,D,California State Assembly Public relations executive,CA,40,
+435,RepRaulRuizMD,Representative,M,Raul,Ruiz,50,D,Emergency physician,CA,36,
+436,Call_Me_Dutch,Representative,M,Dutch,Ruppersberger,76,D,"Baltimore County Executive
+Chief of the Office of Investigative Division for Maryland's Department of Justice
+Baltimore County Assistant State's Attorney",MD,2,
+437,RepBobbyRush,Representative,M,Bobby,Rush,75,D,Chicago City Council,IL,1,
+438,RepRutherfordFL,Representative,M,John,Rutherford,70,R,Sheriff of Duval County,FL,4,
+439,RepPatRyanNY,Representative,M,Pat,Ryan,40,D,Ulster County Executive,NY,19,
+440,RepTimRyan,Representative,M,Tim,Ryan,49,D,Ohio Senate,OH,13,
+441,Kilili_Sablan,Representative,M,Gregorio,Sablan,67,D,Election Commission Director,MP,0,
+442,GuamCongressman,Representative,M,Michael,San Nicolas,41,D,Guam Legislature,GU,0,
+443,RepLindaSanchez,Representative,F,Linda,Sánchez,53,D,Attorney,CA,38,
+444,RepSarbanes,Representative,M,John,Sarbanes,60,D,"Attorney
+Law clerk",MD,3,
+445,SteveScalise,Representative,M,Steve,Scalise,57,R,"Louisiana State Senate
+Louisiana House of Representatives",LA,1,
+446,RepMGS,Representative,F,Mary,Scanlon,63,D,Attorney,PA,5,
+447,RepAdamSchiff,Representative,M,Adam,Schiff,62,D,"California State Senate
+Assistant Prosecutor for the
+United States Attorney for the Southern District of California",CA,28,
+448,RepSchneider,Representative,M,Brad,Schneider,61,D,"U.S. House
+Management consultant",IL,10,
+449,RepSchrader,Representative,M,Kurt,Schrader,71,D,"Veterinarian
+Oregon State Senate",OR,5,
+450,RepKimSchrier,Representative,F,Kim,Schrier,54,D,Pediatrician,WA,8,
+451,RepDavid,Representative,M,David,Schweikert,60,R,"Arizona House of Representatives
+Arizona Board of Education
+Arizona Board of Equalization
+Maricopa County Treasurer",AZ,6,
+452,AustinScottGA08,Representative,M,Austin,Scott,52,R,Georgia House of Representatives,GA,8,
+453,repdavidscott,Representative,M,David,Scott,77,D,"Georgia State Senate
+Georgia House of Representatives",GA,13,
+454,BobbyScott,Representative,M,Bobby,Scott,75,D,"Virginia Senate
+Virginia House of Delegates",VA,3,
+455,RepSempolinski,Representative,M,Joe,Sempolinski,39,R,Chair of the Steuben County Republican Committee,NY,23,
+456,PeteSessions,Representative,M,Pete,Sessions,67,R,U.S. House,TX,17,
+457,RepTerriSewell,Representative,F,Terri,Sewell,57,D,Attorney,AL,7,
+458,BradSherman,Representative,M,Brad,Sherman,68,D,California Board of Equalization,CA,30,
+459,RepSherrill,Representative,F,Mikie,Sherrill,50,D,"Assistant United States Attorney for the District of New Jersey
+U.S. Navy helicopter pilot",NJ,11,
+460,CongMikeSimpson,Representative,M,Mike,Simpson,72,R,"Idaho House of Representatives
+Blackfoot City Council",ID,2,
+461,RepSires,Representative,M,Albio,Sires,71,D,"Mayor of West New York
+New Jersey General Assembly",NJ,8,
+462,RepSlotkin,Representative,F,Elissa,Slotkin,46,D,Assistant Secretary of Defense for International Security Affairs,MI,8,
+463,RepAdamSmith,Representative,M,Adam,Smith,57,D,Washington State Senate,WA,9,
+464,RepAdrianSmith,Representative,M,Adrian,Smith,51,R,"Nebraska Legislature
+Gering City Council",NE,3,
+465,No official,Representative,M,Christopher,Smith,69,R,Retail executive,NJ,4,
+466,RepJasonSmith,Representative,M,Jason,Smith,42,R,Missouri House of Representatives,MO,8,
+467,RepSmucker,Representative,M,Lloyd,Smucker,58,R,Pennsylvania Senate,PA,11,
+468,RepDarrenSoto,Representative,M,Darren,Soto,44,D,"Florida Senate
+Florida House of Representatives",FL,9,
+469,RepSpanberger,Representative,F,Abigail,Spanberger,43,D,CIA operations officer,VA,7,
+470,RepSpartz,Representative,F,Victoria,Spartz,44,R,Indiana Senate,IN,5,
+471,RepSpeier,Representative,F,Jackie,Speier,72,D,"California State Senate
+California State Assembly
+San Mateo County Board of Supervisors",CA,14,
+472,Rep_Stansbury,Representative,F,Melanie,Stansbury,43,D,New Mexico House of Representatives,NM,1,
+473,RepGregStanton,Representative,M,Greg,Stanton,52,D,Mayor of Phoenix,AZ,9,
+474,RepPeteStauber,Representative,M,Pete,Stauber,56,R,"St. Louis County Commission
+Police lieutenant
+Professional hockey player",MN,8,
+475,RepSteel,Representative,F,Michelle,Steel,67,R,"Orange County Board of Supervisors
+California State Board of Equalization",CA,48,
+476,RepStefanik,Representative,F,Elise,Stefanik,38,R,"Civil servant
+Political activist",NY,21,
+477,RepBryanSteil,Representative,M,Bryan,Steil,41,R,"Congressional aide
+Attorney",WI,1,
+478,RepGregSteube,Representative,M,Gregory,Steube,44,R,"Florida Senate
+Florida House of Representatives",FL,17,
+479,RepHaleyStevens,Representative,F,Haley,Stevens,39,D,Presidential Task Force on the Auto Industry,MI,11,
+480,RepChrisStewart,Representative,M,Chris,Stewart,62,R,"Author
+Businessman",UT,2,
+481,RepStricklandWA,Representative,F,Marilyn,Strickland,60,D,Mayor of Tacoma,WA,10,
+482,RepTomSuozzi,Representative,M,Thomas,Suozzi,60,D,"County Executive of Nassau County
+Mayor of Glen Cove",NY,3,
+483,RepSwalwell,Representative,M,Eric,Swalwell,41,D,Dublin City Council,CA,15,
+484,RepMarkTakano,Representative,M,Mark,Takano,61,D,Teacher,CA,41,
+485,RepVanTaylor,Representative,M,Van,Taylor,50,R,"Texas Senate
+Texas House of Representatives",TX,3,
+486,RepTenney,Representative,F,Claudia,Tenney,61,R,"U.S. House
+New York State Assembly",NY,22,
+487,BennieGThompson,Representative,M,Bennie,Thompson,74,D,"Alderman and Mayor of Bolton
+Hinds County Board of Supervisors",MS,2,
+488,CongressmanGT,Representative,M,Glenn,Thompson,63,R,Chair of the Centre County Republican Committee,PA,15,
+489,RepThompson,Representative,M,Mike,Thompson,71,D,California State Senate,CA,5,
+490,RepTiffany,Representative,M,Thomas,Tiffany,64,R,"Wisconsin Senate
+Wisconsin State Assembly",WI,7,
+491,RepTimmons,Representative,M,William,Timmons,38,R,"Attorney
+Entrepreneur",SC,4,
+492,repdinatitus,Representative,F,Dina,Titus,72,D,"U.S. House
+Nevada Senate",NV,1,
+493,RepRashida,Representative,F,Rashida,Tlaib,46,D,Michigan House of Representatives,MI,13,
+494,RepPaulTonko,Representative,M,Paul,Tonko,73,D,New York State Assembly,NY,20,
+495,NormaJTorres,Representative,F,Norma,Torres,57,D,"California State Senate
+California State Assembly
+Mayor of Pomona",CA,35,
+496,RepRitchie,Representative,M,Ritchie,Torres,34,D,New York City Council,NY,15,
+497,RepLoriTrahan,Representative,F,Lori,Trahan,49,D,"Businesswoman, Chief of Staff to Rep. Marty Meehan",MA,3,
+498,RepDavidTrone,Representative,M,David,Trone,67,D,Businessman,MD,6,
+499,RepMikeTurner,Representative,M,Michael,Turner,62,R,Mayor of Dayton,OH,10,
+500,RepUnderwood,Representative,F,Lauren,Underwood,36,D,Registered nurse,IL,14,
+501,RepFredUpton,Representative,M,Fred,Upton,69,R,U.S. government administrator,MI,6,
+502,RepDavidValadao,Representative,M,David,Valadao,45,R,"U.S. House
+California State Assembly
+Farmer",CA,21,
+503,RepBethVanDuyne,Representative,F,Beth,Van Duyne,51,R,Mayor of Irving,TX,24,
+504,RepJuanVargas,Representative,M,Juan,Vargas,61,D,"California State Senate
+California State Assembly
+San Diego City Council",CA,51,
+505,RepVeasey,Representative,M,Marc,Veasey,51,D,Texas House of Representatives,TX,33,
+506,NydiaVelazquez,Representative,F,Nydia,Velázquez,69,D,"Director, Dept. of Puerto Rican Community Affairs",NY,7,
+507,RepAnnWagner,Representative,F,Ann,Wagner,60,R,U.S. Ambassador to Luxembourg,MO,2,
+508,RepWalberg,Representative,M,Tim,Walberg,71,R,"U.S. House
+Michigan House of Representatives",MI,7,
+509,RepWaltzPress,Representative,M,Michael,Waltz,48,R,"U.S. Army
+Intelligence analyst",FL,6,
+510,RepDWStweets,Representative,F,Debbie,Wasserman Schultz,56,D,"Florida Senate
+Florida House of Representatives
+Democratic National Committee Chair",FL,23,
+511,RepMaxineWaters,Representative,F,Maxine,Waters,84,D,California State Assembly,CA,43,
+512,RepBonnie,Representative,F,Bonnie,Watson Coleman,77,D,New Jersey General Assembly,NJ,12,
+513,TXRandy14,Representative,M,Randy,Weber,69,R,"Texas House of Representatives
+Pearland City Council",TX,14,
+514,RepWebster,Representative,M,Daniel,Webster,73,R,"Florida Senate
+Speaker of Florida House of Representatives",FL,11,
+515,PeterWelch,Representative,M,Peter,Welch,75,D,Vermont Senate President Pro Tempore,VT,0,
+516,RepBradWenstrup,Representative,M,Brad,Wenstrup,64,R,Physician,OH,2,
+517,RepWesterman,Representative,M,Bruce,Westerman,54,R,Arkansas House of Representatives,AR,4,
+518,RepWexton,Representative,F,Jennifer,Wexton,54,D,Virginia Senate,VA,10,
+519,RepSusanWild,Representative,F,Susan,Wild,65,D,Solicitor of Allentown,PA,7,
+520,RepNikema,Representative,F,Nikema,Williams,44,D,"Georgia Senate
+Chair of the Georgia Democratic Party",GA,5,
+521,RepRWilliams,Representative,M,Roger,Williams,73,R,Secretary of State of Texas,TX,25,
+522,RepWilson,Representative,F,Frederica,Wilson,80,D,"Florida Senate
+Florida House of Representatives
+Miami-Dade County Public Schools Board",FL,24,
+523,RepJoeWilson,Representative,M,Joe,Wilson,75,R,South Carolina Senate,SC,2,
+524,rep_stevewomack,Representative,M,Steve,Womack,65,R,Mayor of Rogers,AR,3,
+525,RepJohnYarmuth,Representative,M,John,Yarmuth,75,D,"Newspaper publisher
+Vice-president for University Relations, University of Louisville",KY,3,
+526,RepLeeZeldin,Representative,M,Lee,Zeldin,42,R,New York Senate,NY,1,
+527,GovernorKayIvey,Governor,F,Kay,Ivey,78,R,"Lieutenant Governor, State Treasurer, Alabama Commission on Higher Education Director of Government Affairs, Alabama Development Office Assistant Director, Alabama House Reading Clerk",AL,,
+528,GovDunleavy,Governor,M,Mike,Dunleavy,61,R,"Alaska Senate, Matanuska-Susitna Borough Board President",AK,,
+529,na,Governor,M,Lemanu,Peleti,73,D,"Lieutenant Governor, American Samoa Senate, Major in the United States Army",AS,,
+530,dougducey,Governor,M,Doug,Ducey,58,R,State Treasurer,AZ,,
+531,AsaHutchinson,Governor,M,Asa,Hutchinson,71,R,"U.S. Under Secretary of Homeland Security, Administrator of the U.S. Drug Enforcement Administration, U.S. House, State Republican Party Chair, U.S. Attorney",AR,,
+532,CAgovernor,Governor,M,Gavin,Newsom,55,D,"Lieutenant Governor, Mayor of San Francisco, San Francisco Board of Supervisors, San Francisco Parking and Traffic Commission",CA,,
+533,GovofCO,Governor,M,Jared,Polis,47,D,"U.S. House, Colorado State Board of Education",CO,,
+534,GovNedLamont,Governor,M,Ned,Lamont,68,D,"Chair of the State Investment Advisory Council, Greenwich Board of Estimate and Taxation, Greenwich Board of Selectmen",CT,,
+535,JohnCarneyDE,Governor,M,John,Carney,66,D,"U.S. House, Lieutenant Governor, State Secretary of Finance, Chief of Staff to Governor Tom Carper, New Castle County Deputy Chief Administrative Officer, U.S. Senator Joe Biden staffer",DE,,
+536,GovRonDeSantis,Governor,M,Ron,DeSantis,44,R,"U.S. House, Lieutenant Commander in the United States Navy",FL,,
+537,GovKemp,Governor,M,Brian,Kemp,59,R,"Secretary of State, Georgia Senate",GA,,
+538,louleonguerrero,Governor,M,Lou,Leon,72,D,Guam Legislature,GU,,
+539,GovernorLittle,Governor,M,Brad,Little,68,R,"Lieutenant Governor, Idaho Senate",ID,,
+540,GovPritzker,Governor,M,Jay,Pritzker,57,D,"Co-Chair of Hillary Clinton 2008 presidential campaign, Chair of the Illinois Human Rights Commission",IL,,
+541,GovHolcomb,Governor,M,Eric,Holcomb,54,R,"Lieutenant Governor, Chief of Staff to U.S. Senator Dan Coats, State Republican Party Chair, Deputy Chief of Staff to Governor Mitch Daniels, Mitch Daniels 2008 gubernatorial campaign manager, U.S. Congressman John Hostettler Office Manager, Yeoman in the United States Navy",IN,,
+542,IAGovernor,Governor,F,Kim,Reynolds,63,R,"Lieutenant Governor, Iowa Senate, Clarke County Treasurer",IA,,
+543,GovLauraKelly,Governor,F,Laura,Kelly,72,D,Kansas Senate,KS,,
+544,GovAndyBeshear,Governor,M,Andy,Beshear,44,D,State Attorney General,KY,,
+545,LouisianaGov,Governor,M,John,Bel,56,D,"Minority Leader of the Louisiana House, Captain in the United States Army",LA,,
+546,GovJanetMills,Governor,F,Janet,Mills,74,D,"State Attorney General, Maine House, Androscoggin, Franklin, and Oxford Counties District Attorney",ME,,
+547,GovLarryHogan,Governor,M,Larry,Hogan,66,R,State Secretary of Appointments,MD,,
+548,MassGovernor,Governor,M,Charlie,Baker,66,R,"Swampscott Board of Selectmen, State Secretary of Administration and Finance, State Secretary of Health and Human Services",MA,,
+549,GovWhitmer,Governor,F,Gretchen,Whitmer,51,D,"Ingham County Prosecuting Attorney, Minority Leader of the Michigan Senate, Michigan House",MI,,
+550,GovTimWalz,Governor,M,Tim,Walz,58,D,"U.S. House, Command Sergeant Major in the Army National Guard",MN,,
+551,tatereeves,Governor,M,Tate,Reeves,48,R,"Lieutenant Governor, State Treasurer",MS,,
+552,GovParsonMO,Governor,M,Mike,Parson,67,R,"Lieutenant Governor, Missouri Senate, Missouri House, Polk County Sheriff, Sergeant in the United States Army",MO,,
+553,GovGianforte,Governor,M,Greg,Gianforte,61,R,U.S. House,MT,,
+554,GovRicketts,Governor,M,Pete,Ricketts,58,R,Republican National Commmitteeman,NE,,
+555,GovSisolak,Governor,M,Steve,Sisolak,68,D,"Clark County Commission, Nevada Board of Regents",NV,,
+556,GovChrisSununu,Governor,M,Chris,Sununu,48,R,New Hampshire Executive Council,NH,,
+557,GovMurphy,Governor,M,Phil,Murphy,65,D,"U.S. Ambassador to Germany, Finance Chair of the Democratic National Committee, New Jersey Benefits Task Force chair",NJ,,
+558,GovMLG,Governor,F,Michelle,Lujan,63,D,"U.S. House, Bernalillo County Commission, State Secretary of Health, Director of the State Long-Term Services Department",NM,,
+559,GovKathyHochul,Governor,F,Kathy,Hochul,64,D,"Lieutenant Governor, U.S. House, Erie County Clerk, Hamburg Town Board",NY,,
+560,NC_Governor,Governor,M,Roy,Cooper,65,D,"State Attorney General, Majority Leader of the North Carolina Senate, North Carolina House",NC,,
+561,DougBurgum,Governor,M,Doug,Burgum,66,R,No prior public experience,ND,,
+562,GovernorCNMI,Governor,M,Ralph,Torres,43,R,"Lieutenant Governor, President of the CNMI Senate, CNMI House",MP,,
+563,GovMikeDeWine,Governor,M,Mike,DeWine,75,R,"State Attorney General, U.S. Senate, Lieutenant Governor, U.S. House, Ohio Senate, Greene County Prosecutor",OH,,
+564,GovStitt,Governor,M,Kevin,Stitt,49,R,No prior public experience,OK,,
+565,OregonGovBrown,Governor,F,Kate,Brown,62,D,"Secretary of State, Majority Leader of the Oregon Senate, Oregon House",OR,,
+566,GovernorTomWolf,Governor,M,Tom,Wolf,73,D,State Secretary of Revenue,PA,,
+567,GovPierluisi,Governor,M,Pedro,Pierluisi,63,D,"U.S. House, Territorial Secretary of Justice",PR,,
+568,GovDanMcKee,Governor,M,Dan,McKee,71,D,"Lieutenant Governor, Mayor of Cumberland, Cumberland Town Council",RI,,
+569,henrymcmaster,Governor,M,Henry,McMaster,75,R,"Lieutenant Governor, Board of South Carolina Ports Authority, State Attorney General, State Republican Party Chair, U.S. Attorney",SC,,
+570,govkristinoem,Governor,F,Kristi,Noem,50,R,"U.S. House, South Dakota House",SD,,
+571,GovBillLee,Governor,M,Bill,Lee,63,R,No prior public experience,TN,,
+572,GovAbbott,Governor,M,Greg,Abbott,65,R,"State Attorney General, Associate Justice of the Texas Supreme Court",TX,,
+573,GovCox,Governor,M,Spencer,Cox,47,R,"Lieutenant Governor, Utah House, Sanpete County Commission, Mayor of Fairview",UT,,
+574,GovPhilScott,Governor,M,Phil,Scott,64,R,"Lieutenant Governor, Vermont Senate",VT,,
+575,GovernorVA,Governor,M,Glenn,Youngkin,55,R,No prior public experience,VA,,
+576,GovInslee,Governor,M,Jay,Inslee,71,D,"U.S. House, Washington House",WA,,
+577,WVGovernor,Governor,M,Jim,Justice,71,R,No prior public experience,WV,,
+578,GovEvers,Governor,M,Tony,Evers,71,D,State Superintendent of Public Instruction,WI,,
+579,GovernorGordon,Governor,M,Mark,Gordon,65,R,State Treasurer,WY,,
+580,NYCMayor,Mayor,M,Eric,Adams,62,D,,NY,"[3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16] ",New York City
+581,MayorOfLA,Mayor,F,Karen,Bass,69,D,,CA,"[27, 29, 32]",Los Angeles
+582,LoriLightfoot,Mayor,F,Lori,Lightfoot,60,D,,IL,"[1, 2, 3, 4, 5, 6, 7, 8, 9]",Chicago
+583,SylvesterTurner,Mayor,M,Sylvester,Turner,68,D,,TX,"[7, 8, 18, 38]",Houston
+584,MayorGallego,Mayor,F,Kate,Gallego,41,D,,AZ,"[1, 3, 8]",Phoenix
+585,PhillyMayor,Mayor,M,Jim,Kenney,64,D,,PA,"[2, 3]",Philadelphia
+586,Ron_Nirenberg,Mayor,M,Ron,Nirenberg,45,I,,TX,"[20, 21, 23, 28, 35]",San Antonio
+587,ToddGloria,Mayor,M,Todd,Gloria,44,D,,CA,"[49, 50, 51, 48, 52]",San Diego
+588,Johnson4Dallas,Mayor,M,Eric,Johnson,47,D,,TX,"[5, 6, 30, 32]",Dallas
+589,MayorRickHNL,Mayor,M,Rick,Blangiardi,76,I,,HI,[1],Honolulu
+590,MattMahanSJ,Mayor,M,Matt,Mahan,40,D,,CA,"[16, 17, 18, 19]",San Jose
+591,lennycurry,Mayor,M,Lenny,Curry,52,R,,FL,"[4, 5]",Jacksonville
+592,KirkPWatson,Mayor,M,Kirk,Watson,64,D,,TX,"[11, 21, 31, 37]",Austin
+593,MayorMattie,Mayor,M,Mattie,Parker,40,R,,TX,"[12, 25, 33]",Fort Worth
+594,MayorGinther,Mayor,M,Andrew,Ginther,47,D,,OH,"[3, 15]",Columbus
+595,IndyMayorJoe,Mayor,M,Joe,Hogsett,66,D,,IN,[7],Indianapolis
+596,CLTMayor,Mayor,F,Vi,Lyles,70,D,,NC,"[12, 14]",Charlotte
+597,LondonBreed,Mayor,F,London,Breed,48,D,,CA,"[11, 15]",San Francisco
+598,MayorofSeattle,Mayor,M,Bruce,Harrell,64,D,,WA,"[1, 7, 9]",Seattle
+599,JohnCooper4Nash,Mayor,M,John,Cooper,66,D,,TN,"[5, 7]",Nashville
+600,MayorHancock,Mayor,M,Michael,Hancock,53,D,,CO,[1],Denver
+601,MayorBowser,Mayor,F,Muriel,Bowser,50,D,,DC,[0],Washington
+602,davidfholt,Mayor,M,David,Holt,43,R,,OK,"[4, 5]",Oklahoma City
+603,,Mayor,M,Oscar,Leeser,64,D,,TX,[23],El Paso
+604,MayorWu,Mayor,F,Michelle,Wu,38,D,,MA,[7],Boston
+605,tedwheeler,Mayor,M,Ted,Wheeler,60,D,,OR,"[3, 4, 5]",Portland
+606,mayoroflasvegas,Mayor,F,Carolyn,Goodman,83,I,,NV,"[1, 3]",Las Vegas
+607,MayorMikeDuggan,Mayor,M,Mike,Duggan,64,D,,MI,"[1, 2, 3, 6, 7]",Detroit
+608,MayorMemphis,Mayor,M,Jim,Strickland,59,D,,TN,[9],Memphis
+609,LouisvilleMayor,Mayor,M,Craig,Greenberg,49,D,,KY,[3],Louisville
+610,MayorBMScott,Mayor,M,Brandon,Scott,38,D,,MD,[7],Baltimore
+611,MayorOfMKE,Mayor,M,Cavalier,Johnson,36,D,,WI,[4],Milwaukee
+612,MayorKeller,Mayor,M,Tim,Keller,45,D,,NM,"[1, 2]",Albuquerque
+613,TucsonRomero,Mayor,F,Regina,Romero,48,D,,AZ,"[2, 3]",Tucson
+614,MayorJerryDyer,Mayor,M,Jerry,Dyer,63,R,,CA,[13],Fresno
+615,Mayor_Steinberg,Mayor,M,Darrell,Steinberg,63,D,,CA,"[6,7]",Sacramento
+616,QuintonLucasKC,Mayor,M,Quinton,Lucas,38,D,,MO,[5],Kansas City
+617,MayorGiles,Mayor,M,John,Giles,62,R,,AZ,"[4, 5, 6]",Mesa
+618,andreforatlanta,Mayor,M,Andre,Dickens,48,D,,GA,[5],Atlanta
+619,Jean_Stothert,Mayor,F,Jean,Stothert,68,R,,NE,[2],Omaha
+620,JohnSuthers,Mayor,M,John,Suthers,71,R,,CO,[5],Colorado Springs
+621,maryannbaldwin,Mayor,F,Mary-Ann,Baldwin,65,D,,NC,[4],Raleigh
+622,LongBeachMayor,Mayor,M,Rex,Richardson,39,D,,CA,[42],Long Beach
+623,BobbyDyerVB,Mayor,M,Bobby,Dyer,73,R,,VA,[2],Virginia Beach
+624,FrancisSuarez,Mayor,M,Francis,X.,45,R,,FL,[27],Miami
+625,MayorShengThao,Mayor,F,Sheng,Thao,38,D,,CA,[12],Oakland
+626,Jacob_Frey,Mayor,M,Jacob,Frey,41,D,,MN,[5],Minneapolis
+627,gtbynum,Mayor,M,G.,T.,45,R,,OK,[1],Tulsa
+628,karenkgoh,Mayor,F,Karen,Goh,67,R,,CA,[22],Bakersfield
+629,BWhippleKS,Mayor,M,Brandon,Whipple,40,D,,KS,[4],Wichita
