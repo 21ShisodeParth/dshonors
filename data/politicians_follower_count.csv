@@ -72,7 +72,7 @@
 70,GovPierluisi,99850
 71,GovPritzker,249403
 72,GovRonDeSantis,4098235
-73,GovSisolak,0
+73,GovSisolak,None
 74,GovStitt,69232
 75,GovTimWalz,215314
 76,GovWhitmer,530133
@@ -175,7 +175,7 @@
 173,RepAngieCraig,34550
 174,RepAnnaEshoo,52443
 175,RepAnnWagner,29294
-176,RepAnthonyBrown,0
+176,RepAnthonyBrown,None
 177,RepAOC,773013
 178,RepArmstrongND,23820
 179,RepArrington,21206
@@ -225,7 +225,7 @@
 223,RepChuck,24558
 224,RepChuyGarcia,33119
 225,RepCicilline,35022
-226,RepCindyAxne,0
+226,RepCindyAxne,None
 227,RepClayHiggins,65916
 228,repcleaver,50204
 229,RepCloudTX,23057
@@ -242,7 +242,7 @@
 240,RepDarrenSoto,24123
 241,RepDaveJoyce,24134
 242,RepDavid,35028
-243,RepDavidEPrice,0
+243,RepDavidEPrice,None
 244,RepDavidKustoff,15829
 245,RepDavidRouzer,17730
 246,RepDavids,70248
@@ -300,7 +300,7 @@
 298,RepGuthrie,21411
 299,RepGwenMoore,44354
 300,RepHaleyStevens,42204
-301,RepHalRogers,0
+301,RepHalRogers,None
 302,RepHankJohnson,55445
 303,RepHarshbarger,17938
 304,RepHartzler,33774
@@ -320,7 +320,7 @@
 318,RepJerryCarl,7263
 319,RepJimBaird,9498
 320,RepJimBanks,107256
-321,repjimcooper,0
+321,repjimcooper,None
 322,RepJimCosta,29426
 323,RepJimmyGomez,53512
 324,RepJimmyPanetta,17146
@@ -342,7 +342,7 @@
 340,RepKathleenRice,33087
 341,RepKatiePorter,1306835
 342,RepKayGranger,27319
-343,RepKClark,0
+343,RepKClark,None
 344,RepKenBuck,74772
 345,RepKevinBrady,57398
 346,repkevinhern,17133
@@ -461,7 +461,7 @@
 459,RepSusieLee,34288
 460,RepSwalwell,1497471
 461,RepSylviaGarcia,65834
-462,RepTedBudd,0
+462,RepTedBudd,None
 463,RepTedLieu,184094
 464,RepTenney,33213
 465,RepTeresaLF,8530
