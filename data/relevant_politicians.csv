@@ -1,5 +1,5 @@
 ,Handle,Follower Count
-0,andreforatlanta,0
+0,andreforatlanta,None
 1,AsaHutchinson,104310
 2,AustinScottGA08,29356
 3,BennieGThompson,96666
@@ -475,7 +475,7 @@
 473,RepTomSuozzi,19817
 474,RepTonyGonzales,15016
 475,RepTrentKelly,13935
-476,RepTrey,0
+476,RepTrey,None
 477,RepTroyCarter,5205
 478,RepTroyNehls,130271
 479,RepUnderwood,127067
@@ -595,5 +595,5 @@
 593,VernBuchanan,31985
 594,virginiafoxx,33002
 595,WarrenDavidson,53066
-596,WhipClyburn,0
+596,WhipClyburn,None
 597,WVGovernor,79636
